@@ -1,0 +1,25 @@
+BDD: stands for Behaviour Driven Development.BDD framework for those who don't understand the coding.For their understanding we write the framework in a plain language so that they can understand the behaviour of the application.It helps to reduce the manual efforts.
+Tools: Cucumber
+Gerkins: Is a plain english language
+Concepts: 3
+(1) @Feature File= We write our scenario using gerkin language
+***Syntax/keywords: Given, When, And, Then, But, *
+#Given> Pre-Condition
+#When:  Action to perform 
+#And: More Steps
+#Then: Validation
+
+(2) Step Definition= Where we implement our test cases.
+(3) Runner File/Class= Where we link our feature & step definition.
+
+
+
+
+
+
+
+
+
+
+
+
