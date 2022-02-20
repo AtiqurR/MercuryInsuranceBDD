@@ -13,7 +13,5 @@ import io.cucumber.junit.CucumberOptions;
                                 plugin = {"pretty", "html:src/target/htmlReport.html"})
 
 public class AutoInsuranceRunner {
-	
-	
 
 }
